@@ -1,4 +1,4 @@
-<h6 align="center">this is my first repository </h1>
+<h6 align="center">This is my first Repository </h1>
 <h1 align="center">Hi 👋, I'm Samruddhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buddesamruddhi&show_icons=true&locale=en" alt="buddesamruddhi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buddesamruddhi&" alt="buddesamruddhi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samruddhi &" alt="buddesamruddhi" /></p>
