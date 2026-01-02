@@ -1,3 +1,4 @@
+<h6 align="center">this is my first repository </h1>
 <h1 align="center">Hi 👋, I'm Samruddhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
