@@ -18,7 +18,7 @@
 
 ---
 
-### 🌷 A little about me
+###  A little about me
 
 Hi, I'm **Samruddhi**, a Computer Science & Engineering student from India.
 
@@ -31,7 +31,7 @@ I enjoy exploring technology, experimenting with ideas, and learning how to turn
 
 ---
 
-### 🎨 My tech palette
+###  My tech palette
 
 <div align="center">
 
@@ -61,9 +61,9 @@ A web project focused on displaying weather information through a simple, user-f
 
 <div align="center">
 
-### ♡ Thanks for stopping by!
+###  Thanks for stopping by!
 
-*Made with curiosity, creativity, and a little bit of code.*
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" width="100%" alt="Decorative footer"/>
 
