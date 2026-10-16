@@ -1,20 +1,75 @@
-<h6 align="center">This is my first Repository </h1>
-<h1 align="center">Hi 👋, I'm Samruddhi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=buddesamruddhi&label=Profile%20views&color=0e75b6&style=flat" alt="buddesamruddhi" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buddesamruddhi" alt="buddesamruddhi" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=150&section=header&text=Samruddhi%20Budde&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%" alt="Samruddhi's profile banner"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+*Exploring ideas, writing code, and building things that make life easier.*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buddesamruddhi&show_icons=true&locale=en&layout=compact" alt="buddesamruddhi" /></p>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=17&duration=3000&pause=1000&color=B18CD9&center=true&vCenter=true&width=480&lines=Learning+something+new+every+day+%E2%9C%A8;Turning+ideas+into+projects+%F0%9F%8C%B7;Exploring+Web+Development+%26+AI+%F0%9F%92%BB" alt="Animated introduction"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buddesamruddhi&show_icons=true&locale=en" alt="buddesamruddhi" /></p>
+[![GitHub](https://img.shields.io/badge/GitHub-25213B?style=flat-square&logo=github&logoColor=white)](https://github.com/buddesamruddhi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E8E0F5?style=flat-square&logo=linkedin&logoColor=5D477B)](https://www.linkedin.com/in/samruddhi-budde-23354932b/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samruddhi &" alt="buddesamruddhi" /></p>
+</div>
+
+---
+
+###  A little about me
+
+Hi, I'm **Samruddhi**, a Computer Science Engineering student from India.
+
+I enjoy exploring technology, experimenting with ideas, and learning how to turn concepts into useful applications.
+
+- 💻 Interested in web development and software engineering
+- 🤖 Exploring AI-powered tools and creative applications
+- 📚 Learning programming, data handling, and problem solving
+- ✨ Always curious about what I can create next
+
+---
+
+###  My tech palette
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,js,java,mysql,git,github,numpy,pandas&perline=6)](https://skillicons.dev)
+
+</div>
+
+---
+
+### Things I'm building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌦️ Weather Application
+
+A web project focused on displaying weather information through a simple, user-friendly interface.
+
+**Exploring:** HTML · CSS · JavaScript
+
+</td>
+
+
+
+
+</td>
+</tr>
+</table>
+
+---
+
+
+---
+
+<div align="center">
+
+###  Thanks for stopping by!
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
